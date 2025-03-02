@@ -1,5 +1,5 @@
 /**
- * Benutzerdefinierte Ausnahme für die Behandlung von vollen Stacks.
+ * Custom exception for handling full stack scenarios.
  */
 public class StackFullException extends Exception {
     public StackFullException(String message) {
